@@ -1,2 +1,19 @@
-# lambda-rot13
-ini script Untuk Mengkomplikasi file python3 anda dengan komplikasi lambda rot 13 Berlapis 10 komplikasi
+# INSTALL
+```
+$ pkg update
+$ pkg upgrade
+$ pkg install python
+$ pkg install git
+```
+# DOWNLOAD
+```
+https://github.com/XNSCODE/lambda-rot13
+```
+# RUN
+```
+cd lambda-rot13
+ls
+python lambda.py
+```
+
+- ENJOY BROOO
