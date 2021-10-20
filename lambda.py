@@ -12,8 +12,8 @@
 #                                                                #
 #                                                                #
 ##################################################################
-#     JANGAN DI EDIT EDIT LAGI YA BROOO
-
+#                JANGAN DI EDIT EDIT LAGI YA BROOO               #
+##################################################################
 import sys, argparse, codecs, binascii, time
 from os import system, remove
 from sys import argv
