@@ -38,7 +38,7 @@ class LambdaEncode:
 				NamaMenurun("\nAuthor Script Boy Hamzah\n\nTeam XNSCODE\n\n-------------------------------------\nAngga\nYayan\nBoy Hamzah\nRizal\nM.Rizky\nDapunta\nLatip\nHan\nFallen\nIqbal\n-------------------------------------")
 			elif inp == 1:
 				lapis = 0
-				file = input("\nNama File > ")
+				file = input("\n[ CONTOH ] /sdcard/xnscode/file.py\n\nNama File > ")
 				total = int(input("\nMau Berapa Lapis Compile.? Max 10\n\n> "))
 				if ( total < 11 ):
 					out = input("\nOutput > ")
