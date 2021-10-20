@@ -1,4 +1,19 @@
 # -*- coding: UTF-8 -*-.
+##################################################################
+#                             OPEN SOURCE                        #
+#                                                                #                                                               
+#                                                                #
+#    BOLEH DI RECOD TAPI CANTUMKAN NAMA AUTHOR YA KONTOL         #
+#                                                                #
+#               AUTHOR > Boy Hamzah                              #
+#               GITHUB   > https://github.com/BOY-H4MZ4H         #
+#               FACEBOOK > https://github.com/Boy.Hamzaah        #
+#               TEAM  > XNSCODE                                  #
+#                                                                #
+#                                                                #
+##################################################################
+#     JANGAN DI EDIT EDIT LAGI YA BROOO
+
 import sys, argparse, codecs, binascii, time
 from os import system, remove
 from sys import argv
